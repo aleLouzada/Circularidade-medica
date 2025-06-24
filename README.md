@@ -4,7 +4,7 @@ Avaliação Comparativa de Modelos de Rede Neural e Tradicionais para Classifica
 
 A problemática da circularidade médica aborda a dinâmica de deslocamento de profissionais de saúde em relação à distribuição geográfica dos locais de atendimento. Essa questão assume grande relevância diante da persistente escassez de médicos em determinadas regiões do Brasil, geralmente associadas a índices de desenvolvimento humano mais baixos ou localidades mais remotas. 
 
-Neste projeto, nosso objetivo é empregar as informações disponíveis na base de dados para realizar a classificação do local onde um novo estudante possivelmente irá cursar medicina, com base em suas características. Para atingir esse fim, exploramos três abordagens de classificação por meio de aprendizado de máquina supervisionado: o Random Forest, como um classificador convencional; uma rede neural utilizando o Perceptron; e uma rede neural implementada com a biblioteca TensorFlow.
+Neste projeto, nosso objetivo é empregar as informações disponíveis na base de dados para realizar a classificação do local onde um novo estudante possivelmente irá cursar medicina, com base em suas características. Para atingir esse fim, exploramos duas abordagens de classificação por meio de aprendizado de máquina supervisionado: o Random Forest, como um classificador convencional; e uma rede neural implementada com a biblioteca TensorFlow.
 
 A avaliação de desempenho desses modelos em um conjunto de teste proporcionou uma comparação robusta de seus resultados. O intuito final é criar um sistema preditivo capaz de antecipar o código do estado onde o estudante provavelmente escolherá cursar medicina, utilizando as informações contidas na base de dados como guia para essa previsão.
 
